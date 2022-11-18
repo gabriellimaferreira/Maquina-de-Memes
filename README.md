@@ -1,7 +1,6 @@
 # Maquina-de-Memes
 Projeto desenvolvido em parceria com a DIO.
 
-Deploy: 
 
 Este projeto foi desenvolvio utilizando:
 

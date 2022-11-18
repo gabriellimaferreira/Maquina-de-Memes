@@ -17,23 +17,23 @@ async function mapImageList(){
     const memesObeject = [
         {
          "name": "chapolin",
-         "path": "/pictures/chapolin.jpg"   
+         "path": "/assets/pictures/chapolin.jpg"   
         }, 
         {
          "name":"chole",
-         "path": "/pictures/chloe.jpg"
+         "path": "/assets/pictures/chloe.jpg"
         },
         {
          "name":"funny-cat1",
-         "path":"/pictures/funny-cat1.png"
+         "path":"/assets/pictures/funny-cat1.png"
         },
         {
          "name":"funny-cat2",
-         "path": "/pictures/funny-cat2.png"
+         "path": "/assets/pictures/funny-cat2.png"
         },
         {
          "name":"memeMeninaOlharJugando",
-         "path":"/pictures/memeMeninaOlharJugando.jpg"
+         "path":"/assets/pictures/memeMeninaOlharJugando.jpg"
         } 
 ]
  return memesObeject;
